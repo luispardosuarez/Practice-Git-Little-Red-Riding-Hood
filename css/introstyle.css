@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(252, 179, 218) ;
+}
+
+.intro {
+    background-color: rgb(244, 234, 234);
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+h2 {
+    text-align: center;
+    padding: 25px;
+}
+
+p {
+    text-align: justify;
+    margin-left: 3vw;
+    margin-right: 3vw;   
+}
+
