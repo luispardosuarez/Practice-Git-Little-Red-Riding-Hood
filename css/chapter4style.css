@@ -9,14 +9,14 @@ body {
     padding-bottom: 2vw;    
 }
 
-.orden-capfinal {
+.orden-final {
     display: flex;
     align-items: center;
-    margin-left: 7vw;
+    margin-right: 7vw;
 }
 
 .capfeliz {
-    width: 35vw;
+    width: 21vw;
     border-radius: 3%;
     box-shadow: 5px 3px 5px black;
 }
