@@ -1,22 +1,20 @@
-body {
-    background-color: rgb(246, 176, 189) ;
-}
 
 .capfinal {
     background-color: rgb(249, 247, 248);
     margin-left: 1vw;
     margin-right: 1vw;
-    padding-bottom: 2vw;    
+    padding-bottom: 2vw;  
+    border-radius: 1%; 
 }
 
 .orden-final {
     display: flex;
     align-items: center;
-    margin-right: 7vw;
+    margin-left: 7vw;
 }
 
 .capfeliz {
-    width: 21vw;
+    width: 27vw;
     border-radius: 3%;
     box-shadow: 5px 3px 5px black;
 }

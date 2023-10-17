@@ -1,5 +1,4 @@
 
-
 .intro {
     background-color: rgb(249, 247, 248);
     margin-left: 1vw;
@@ -9,8 +8,8 @@
 }
 
 .imagen-intro {
-    width: 45vw;
-    margin-left: 25vw;
+    width: 35vw;
+    margin-left: 29vw;
     margin-bottom: 2vw;
     border-radius: 3%;
     box-shadow: 5px 3px 5px black;
