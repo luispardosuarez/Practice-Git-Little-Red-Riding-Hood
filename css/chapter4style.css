@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(246, 176, 189) ;
+}
+
+.capfinal {
+    background-color: rgb(249, 247, 248);
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding-bottom: 2vw;    
+}
+
+.orden-final {
+    display: flex;
+    align-items: center;
+    margin-right: 7vw;
+}
+
+.capfeliz {
+    width: 21vw;
+    border-radius: 3%;
+    box-shadow: 5px 3px 5px black;
+}
+
+h2 {
+    text-align: center;
+    padding: 25px;  
+}
+
+p {
+    text-align: justify;
+    margin-left: 7vw;
+    margin-right: 7vw;  
+   
+}
