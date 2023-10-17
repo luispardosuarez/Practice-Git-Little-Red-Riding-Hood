@@ -4,6 +4,9 @@
 
 @import './chapter2style.css';
 
+@import './chapter3style.css';
+
+
 body {
     background-color: rgb(246, 176, 189);
 }

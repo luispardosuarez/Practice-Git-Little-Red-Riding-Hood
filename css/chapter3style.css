@@ -1,19 +1,22 @@
+body {
+    background-color: rgb(246, 176, 189) ;
+}
 
-.capuno {
+.captres {
     background-color: rgb(252, 218, 236);
     margin-left: 1vw;
     margin-right: 1vw;
-    padding-bottom: 2vw;  
-    border-radius: 1%;  
+    padding-bottom: 2vw;    
+    border-radius: 1%;
 }
 
-.orden-capuno {
+.orden-captres {
     display: flex;
     align-items: center;
     margin-right: 7vw;
 }
 
-.capimama {
+.capiabu {
     width: 35vw;
     border-radius: 3%;
     box-shadow: 5px 3px 5px black;
@@ -30,5 +33,3 @@ p {
     margin-right: 7vw;  
    
 }
-
-
