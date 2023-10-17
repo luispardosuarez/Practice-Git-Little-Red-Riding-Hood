@@ -7,16 +7,26 @@ body {
     background-color: rgb(244, 234, 234);
     margin-left: 1vw;
     margin-right: 1vw;
+    padding-bottom: 2vw;
+}
+
+.imagen-intro {
+    width: 45vw;
+    margin-left: 25vw;
+    margin-bottom: 2vw;
 }
 
 h2 {
     text-align: center;
     padding: 25px;
+    color: rgb(237, 25, 67);
+  
 }
 
 p {
     text-align: justify;
-    margin-left: 3vw;
-    margin-right: 3vw;   
+    margin-left: 7vw;
+    margin-right: 7vw;   
 }
+
 
