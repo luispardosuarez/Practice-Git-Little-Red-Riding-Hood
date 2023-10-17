@@ -11,6 +11,8 @@
     width: 45vw;
     margin-left: 25vw;
     margin-bottom: 2vw;
+    border-radius: 3%;
+    box-shadow: 5px 3px 5px black;
 }
 
 h2 {

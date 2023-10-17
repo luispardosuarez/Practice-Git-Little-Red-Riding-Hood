@@ -2,6 +2,8 @@
 
 @import './chapter1style.css';
 
+@import './chapter2style.css';
+
 body {
     background-color: rgb(246, 176, 189);
 }
