@@ -1,0 +1,33 @@
+
+.capuno {
+    background-color: rgb(252, 218, 236);
+    margin-left: 1vw;
+    margin-right: 1vw;
+    padding-bottom: 2vw;    
+}
+
+.orden-capuno {
+    display: flex;
+    align-items: center;
+    margin-right: 7vw;
+}
+
+.capimama {
+    width: 35vw;
+    border-radius: 3%;
+    box-shadow: 5px 3px 5px black;
+}
+
+h2 {
+    text-align: center;
+    padding: 25px;  
+}
+
+p {
+    text-align: justify;
+    margin-left: 7vw;
+    margin-right: 7vw;  
+   
+}
+
+

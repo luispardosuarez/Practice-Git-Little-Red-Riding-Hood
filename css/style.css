@@ -1,8 +1,6 @@
+@import './introstyle.css';
 
-
-
-
-
+@import './chapter1style.css';
 
 body {
     background-color: rgb(246, 176, 189);
